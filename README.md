@@ -7,4 +7,4 @@ NoteMaking_WebApp is a lightweight, user-friendly web application designed to he
 📱 Fully responsive design for mobile and desktop
 🔍 Search and filter your notes easily
 
-Feel free to clone, customize, and contribute to the project!
+Feel free to clone, customize, and contribute to the project
