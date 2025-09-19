@@ -1,4 +1,4 @@
-NoteMaking_WebApp is a lightweight, user-friendly web application designed to help users create, edit, and manage personal notes efficiently. Built with modern web technologies (HTML, CSS, JavaScript), this app offers a clean UI, responsive design, and features like auto-save, local storage, and dark mode. Perfect for students, developers, or anyone who loves organized digital note-taking—no login required, just opens and write...
+NoteMaking_WebApp is a lightweight, user-friendly web application designed to help users create, edit, and manage personal notes efficiently. Built with modern web technologies (HTML, CSS, JavaScript), this app offers a clean UI, responsive design, and features like auto-save, local storage, and dark mode. Perfect for students, developers, or anyone who loves organized digital note-taking—no login required, just opens and write
 
 🚀 Features:
 📝 Create, edit, and delete notes
